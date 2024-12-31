@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseNamingPolicy", "CaseNamingPolicy.csproj", "{F3810333-8B3C-4609-9E76-EC36DFBEF494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseNamingPolicy.Test", "..\CaseNamingPolicy.Test\CaseNamingPolicy.Test.csproj", "{0C242AE3-AC28-495E-9584-AA108DB42342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3810333-8B3C-4609-9E76-EC36DFBEF494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3810333-8B3C-4609-9E76-EC36DFBEF494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3810333-8B3C-4609-9E76-EC36DFBEF494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3810333-8B3C-4609-9E76-EC36DFBEF494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C242AE3-AC28-495E-9584-AA108DB42342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C242AE3-AC28-495E-9584-AA108DB42342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C242AE3-AC28-495E-9584-AA108DB42342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C242AE3-AC28-495E-9584-AA108DB42342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
