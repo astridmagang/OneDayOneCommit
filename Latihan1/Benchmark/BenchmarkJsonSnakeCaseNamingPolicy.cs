@@ -26,5 +26,8 @@ namespace Benchmark
 
         [Benchmark(Description = "Set value AaA")]
         public string BenchmarkConvertNameAaA() => _snakeCaseNamingPolicy.ConvertName("AaA");
+
+        [Benchmark(Description = "Set value AaALKJHGFDSDFGHJoiuytreertyuiomn098765434567890")]
+        public string BenchmarkConvertNameAaALKJHGFDSDFGHJoiuytreertyuiomn098765434567890() => _snakeCaseNamingPolicy.ConvertName("AaALKJHGFDSDFGHJoiuytreertyuiomn098765434567890");
     }
 }
