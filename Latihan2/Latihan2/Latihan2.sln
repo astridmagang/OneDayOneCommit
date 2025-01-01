@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan2", "Latihan2.csproj", "{5559BF94-63BA-45DA-B20B-C22380E93E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "..\Benchmark\Benchmark.csproj", "{3E7EC24E-A5EE-41E0-9443-F4184EF4EC29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5559BF94-63BA-45DA-B20B-C22380E93E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5559BF94-63BA-45DA-B20B-C22380E93E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5559BF94-63BA-45DA-B20B-C22380E93E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5559BF94-63BA-45DA-B20B-C22380E93E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7EC24E-A5EE-41E0-9443-F4184EF4EC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7EC24E-A5EE-41E0-9443-F4184EF4EC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7EC24E-A5EE-41E0-9443-F4184EF4EC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7EC24E-A5EE-41E0-9443-F4184EF4EC29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

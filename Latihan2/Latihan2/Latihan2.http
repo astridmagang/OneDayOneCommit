@@ -1,0 +1,6 @@
+@Latihan2_HostAddress = http://localhost:5271
+
+GET {{Latihan2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
